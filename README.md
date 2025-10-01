@@ -9,15 +9,23 @@ linking to their respective repositories and sub-modules.
 ##  Foundations (Machine Learning Basics)
 
 ### 🔹 [ml-core-concepts](https://github.com/MohsenSafari83/ml-core-concepts)  
-- **Goal:** Cover fundamental ML concepts and theory.  
-- **Includes:** Core definitions, bias-variance, evaluation metrics, learning paradigms.  
+- **Goal:** Cover theoretical foundations of machine learning.  
+- **Includes:**  
+  - Overfitting vs Underfitting  
+  - Bias-Variance Tradeoff  
+  - Gradient Descent (Batch, Stochastic, Mini-Batch) & Learning Rate  
+  - Loss Functions (MSE, MAE, Hinge Loss)  
+  - Distance Measures (Euclidean, Minkowski, Cosine Similarity)  
+  - Regularization techniques  
+  - Softmax & Cost Functions  
+  
 
 ### 🔹 [Data Preprocessing](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Data%20Preprocessing)  
 - **Goal:** Data cleaning, transformation, feature scaling, encoding.  
 
 ### 🔹 [Python Cheat Sheet](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Python_Cheat_Sheet)  
 - **Goal:** Quick reference for Python basics, data science, and ML commands.  
-- **Includes:** Numpy, Pandas, Matplotlib, Scikit-learn handy snippets.  
+- **Includes:** Numpy, Pandas, Matplotlib handy snippets.  
 
 ---
 

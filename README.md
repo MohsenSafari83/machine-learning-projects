@@ -20,20 +20,32 @@ linking to their respective repositories and sub-modules.
   - Softmax & Cost Functions  
   
 
-### 🔹 [Data Preprocessing](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Data%20Preprocessing)  
-- **Goal:** Data cleaning, transformation, feature scaling, encoding.  
+### 🔹 [Data Preprocessing](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Data%20Preprocessing)
+- **Goal:** Essential techniques for preparing data before training ML models.  
+- **Topics Covered:**
+  - Handling missing values & categorical variables
+  - Feature scaling (Normalization, Standardization)
+  - Model evaluation with cross-validation
+  - Feature engineering & selection methods
+  - Dimensionality reduction (PCA)
+  - Train-test split & avoiding data leakage
+  - Pipelines in Scikit-learn for consistent preprocessing
 
-### 🔹 [Python Cheat Sheet](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Python_Cheat_Sheet)  
-- **Goal:** Quick reference for Python basics, data science, and ML commands.  
-- **Includes:** Numpy, Pandas, Matplotlib handy snippets.  
+### 🔹 [Python Cheat Sheet](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Python_Cheat_Sheet)
+- **Goal:** Quick reference for essential Python libraries in ML workflows.  
+- **Topics Covered:**
+  - **NumPy:** Core array manipulation & data management
+  - **Matplotlib:** Data visualization (line, scatter, histograms, bar, box, subplots)
+  - **Seaborn:** Advanced visualization (distributions, scatter with categories, box/violin plots, pairwise plots)
 
 ---
 
 ##  Supervised Learning
 
-### 🔹 [Heart Failure Prediction](https://github.com/your-username/supervised-learning/tree/main/heart-failure)  
-- **Goal:** Predict heart disease outcomes from medical features.  
-- **Techniques:** Logistic Regression, Random Forest, Evaluation Metrics (AUC, F1).  
+### 🔹 [Heart Failure Prediction](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Heart%20Failure%20Prediction)
+- **Goal:** Predict heart failure risk using ML models.  
+- **Algorithms Used:** Logistic Regression, KNN, SVM, XGBoost, Random Forest  
+- **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score, ROC-AUC  
 
 ### 🔹 [Linear Regression on California Housing](https://github.com/your-username/supervised-learning/tree/main/california-housing)  
 - **Goal:** Regression model to predict housing prices in California.  

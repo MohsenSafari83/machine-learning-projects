@@ -5,6 +5,22 @@ It organizes projects into **Foundations**, **Supervised**, and **Unsupervised**
 linking to their respective repositories and sub-modules.
 
 ---
+##  Machine Learning Projects Portfolio Roadmap
+
+This portfolio provides structured access to all implemented machine learning algorithms and real-world projects, categorized by learning type.
+
+| Main Section | Learning Type | Algorithm / Topic | Project Link |
+| :---: | :---: | :---: | :--- |
+| **SUPERVISED LEARNING** | **Classification** | **k-Nearest Neighbors (kNN)** | [Breast Cancer Diagnosis (P01)](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/P01_kNN_Breast_Cancer_Diagnosis) |
+| ([Go to Supervised Learning Repo](https://github.com/MohsenSafari83/Supervised-Learning-)) | Classification | Support Vector Machine (SVM) | [Link to SVM Project]() |
+| | Classification | Decision Trees / Random Forests | [Link to Decision Tree Project]() |
+| | **Regression** | Linear Regression | [Link to Linear Regression Project]() |
+| | Regression | Logistic Regression | [Link to Logistic Regression Project]() |
+| --- | --- | --- | --- |
+| **UNSUPERVISED LEARNING** | **Clustering** | K-Means | [Link to K-Means Project]() |
+| ([Go to Unsupervised Learning Repo](https://github.com/MohsenSafari83/Unsupervised-Learning-)) | Clustering | DBSCAN / Hierarchical | [Link to Clustering Project]() |
+| | **Dimensionality Reduction** | Principal Component Analysis (PCA) | [Link to PCA Project]() |
+---
 
 ##  Foundations (Machine Learning Basics)
 

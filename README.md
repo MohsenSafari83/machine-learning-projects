@@ -2,7 +2,7 @@
 
 This repository is a **master reference** for my machine learning work.  
 It organizes projects into **Foundations**, **Supervised**, and **Unsupervised** learning categories,  
-linking to their respective repositories and sub-modules.
+linking to their respective repositories and sub-modules. 
 
 ---
 ##  Machine Learning Projects Portfolio Roadmap

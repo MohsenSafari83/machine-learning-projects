@@ -11,15 +11,15 @@ This portfolio provides structured access to all implemented machine learning al
 
 | Main Section | Learning Type | Algorithm / Topic | Project Link |
 | :---: | :---: | :---: | :--- |
-| **SUPERVISED LEARNING** | **Classification** | **k-Nearest Neighbors (kNN)** | [Breast Cancer Diagnosis (P01)](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/P01_kNN_Breast_Cancer_Diagnosis) |
+| **SUPERVISED LEARNING** | **Classification** | **k-Nearest Neighbors (kNN)** | [Breast Cancer Diagnosis (P01)](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/KNN) |
 | ([Go to Supervised Learning Repo](https://github.com/MohsenSafari83/Supervised-Learning-)) | Classification | Support Vector Machine (SVM) | [Link to SVM Project]() |
 | | Classification | Decision Trees / Random Forests | [Link to Decision Tree Project]() |
-| | **Regression** | Linear Regression | [Link to Linear Regression Project]() |
-| | Regression | Logistic Regression | [Link to Logistic Regression Project]() |
+| | **Regression** | Linear Regression | [Link to Linear Regression Project](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Linear%20Regression) |
+| | Regression | Logistic Regression | [Link to Logistic Regression Project](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Logistic%20Regression) |
 | --- | --- | --- | --- |
-| **UNSUPERVISED LEARNING** | **Clustering** | K-Means | [Link to K-Means Project]() |
-| ([Go to Unsupervised Learning Repo](https://github.com/MohsenSafari83/Unsupervised-Learning-)) | Clustering | DBSCAN / Hierarchical | [Link to Clustering Project]() |
-| | **Dimensionality Reduction** | Principal Component Analysis (PCA) | [Link to PCA Project]() |
+| **UNSUPERVISED LEARNING** | **Clustering** | K-Means | [Link to K-Means Project](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/project) |
+| ([Go to Unsupervised Learning Repo](https://github.com/MohsenSafari83/Unsupervised-Learning-)) | Clustering | DBSCAN / Hierarchical | [Link to Clustering Project](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/docs) |
+| | **Dimensionality Reduction** | Principal Component Analysis (PCA) | [Link to PCA Project](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/docs) |
 ---
 
 ##  Foundations (Machine Learning Basics)

@@ -19,7 +19,7 @@ This portfolio provides structured access to all implemented machine learning al
 | --- | --- | --- | --- |
 | **UNSUPERVISED LEARNING** | **Clustering** | K-Means/ DBSCAN / Hierarchical | [Link to K-Means Project](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/project) |
 | ([Go to Unsupervised Learning Repo](https://github.com/MohsenSafari83/Unsupervised-Learning-))
-| | **Dimensionality Reduction** | Principal Component Analysis (PCA) | [Link to PCA Project](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/docs) |
+| **Dimensionality Reduction** | Principal Component Analysis (PCA) | [Link to PCA Project](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/docs) |
 ---
 
 ##  Foundations (Machine Learning Basics)

@@ -15,8 +15,8 @@ This portfolio provides structured access to all implemented machine learning al
 |([Go to Supervised Learning Repo](https://github.com/MohsenSafari83/Supervised-Learning-)) | **Classification** | **k-Nearest Neighbors (kNN)** | [Breast Cancer Diagnosis ](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/KNN) |
 | | Classification | Support Vector Machine (SVM) | [Link to SVM Project]() |
 | | Classification | ensemble classifier | [ensemble classifier]() |
-| | **Regression** | Linear Regression | [Link to Linear Regression Project](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Linear%20Regression) |
 | | Classification | Logistic Regression | [Link to Logistic Regression Project](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Logistic%20Regression) |
+| | **Regression** | Linear Regression | [Link to Linear Regression Project](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Linear%20Regression) |
 | --- | --- | --- | --- |
 | **UNSUPERVISED LEARNING** | **Clustering** | K-Means/ DBSCAN / Hierarchical | [Link to K-Means Project](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/project) |
 | ([Go to Unsupervised Learning Repo](https://github.com/MohsenSafari83/Unsupervised-Learning-)) | **Dimensionality Reduction** | Principal Component Analysis (PCA) | [Link to PCA Project](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/docs) |

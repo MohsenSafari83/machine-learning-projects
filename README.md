@@ -84,7 +84,7 @@ This portfolio provides structured access to all implemented machine learning al
   - **Optimization:** Implementing Gradient Descent for finding optimal model weights.
   - **Feature Interpretation:** Analyzing model coefficients to determine the impact and directionality of features (e.g., how cholesterol affects risk).
 ### 🔹 [Performance Metrics Guide (Evaluation)](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Evaluation%20Metrics) 
-Goal: Comprehensive theoretical and practical guide on evaluating classification models, moving beyond simple accuracy. 
+- **Goal:** Comprehensive theoretical and practical guide on evaluating classification models, moving beyond simple accuracy. 
 - **Topics Covered:**
 - **Accuracy & Limitations:** Understanding why it fails in imbalanced datasets.
 - **Confusion Matrix (TP, FP, FN, TN):** Understanding the four outcomes and Type I & II errors.

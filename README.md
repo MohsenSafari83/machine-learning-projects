@@ -86,11 +86,11 @@ This portfolio provides structured access to all implemented machine learning al
 ### 🔹 [Performance Metrics Guide (Evaluation)](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Evaluation%20Metrics) 
 - **Goal:** Comprehensive theoretical and practical guide on evaluating classification models, moving beyond simple accuracy. 
 - **Topics Covered:**
-- **Accuracy & Limitations:** Understanding why it fails in imbalanced datasets.
-- **Confusion Matrix (TP, FP, FN, TN):** Understanding the four outcomes and Type I & II errors.
-- **Precision, Recall, F1-Score:** Understanding the trade-off between sensitivity and prediction correctness.
-- **AUC-ROC:** Evaluating the model’s discrimination ability at different thresholds.
-- **Averaging Methods:** Differences between Macro and Micro Averaging in multi-class evaluation.
+  - **Accuracy & Limitations:** Understanding why it fails in imbalanced datasets.
+  - **Confusion Matrix (TP, FP, FN, TN):** Understanding the four outcomes and Type I & II errors.
+  - **Precision, Recall, F1-Score:** Understanding the trade-off between sensitivity and prediction correctness.
+  - **AUC-ROC:** Evaluating the model’s discrimination ability at different thresholds.
+  - **Averaging Methods:** Differences between Macro and Micro Averaging in multi-class evaluation.
 
 ---
 

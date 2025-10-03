@@ -83,7 +83,7 @@ This portfolio provides structured access to all implemented machine learning al
   - **Log Loss (Cross-Entropy):** Understanding the cost function for probabilistic models.
   - **Optimization:** Implementing Gradient Descent for finding optimal model weights.
   - **Feature Interpretation:** Analyzing model coefficients to determine the impact and directionality of features (e.g., how cholesterol affects risk).
-# 🔹 [Performance Metrics Guide (Evaluation)](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Evaluation%20Metrics) 
+###🔹 [Performance Metrics Guide (Evaluation)](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Evaluation%20Metrics) 
 Goal: Comprehensive theoretical and practical guide on evaluating classification models, moving beyond simple accuracy.
 Topics Covered:
 - **Accuracy & Limitations:** Understanding why it fails in imbalanced datasets.

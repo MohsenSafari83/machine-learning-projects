@@ -11,7 +11,8 @@ This portfolio provides structured access to all implemented machine learning al
 
 | Main Section | Learning Type | Algorithm / Topic | Project Link |
 | :---: | :---: | :---: | :--- |
-| **SUPERVISED LEARNING** | **Classification** | **k-Nearest Neighbors (kNN)** | [Breast Cancer Diagnosis (P01)](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/KNN) |
+| **SUPERVISED LEARNING** | **Classification** | **Performance Metrics (Evaluation)** | [Evaluation Metrics Guide](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Evaluation%20Metrics) |
+| | **Classification** | **k-Nearest Neighbors (kNN)** | [Breast Cancer Diagnosis (P01)](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/KNN) |
 | ([Go to Supervised Learning Repo](https://github.com/MohsenSafari83/Supervised-Learning-)) | Classification | Support Vector Machine (SVM) | [Link to SVM Project]() |
 | | Classification | Decision Trees / Random Forests | [Link to Decision Tree Project]() |
 | | **Regression** | Linear Regression | [Link to Linear Regression Project](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Linear%20Regression) |

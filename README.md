@@ -137,6 +137,7 @@ machine-learning-projects
 │ ├── Heart Failure Prediction
 | ├── Logistic Regression Case Study
 | ├── kNN Classification Case Study
+| ├── Performance Metrics guide
 │ └── Linear Regression on California Housing
 │
 └── Unsupervised Learning

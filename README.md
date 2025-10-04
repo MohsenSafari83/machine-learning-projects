@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://github.com/MohsenSafari83/machine-learning-projects/tree/main/img]" alt="Animated Machine Learning Graphic" width="300" height="300">
+</p>
+
 # Machine Learning Projects
 
 This repository is a **master reference** for my machine learning work.  

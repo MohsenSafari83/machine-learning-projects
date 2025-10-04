@@ -13,7 +13,7 @@ This portfolio provides structured access to all implemented machine learning al
 | :---: | :---: | :---: | :--- |
 | **SUPERVISED LEARNING** | **Classification** | **Performance Metrics (Evaluation)** | [Evaluation Metrics Guide](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Evaluation%20Metrics) |
 |([Go to Supervised Learning Repo](https://github.com/MohsenSafari83/Supervised-Learning-)) | Classification and Regression| **k-Nearest Neighbors (kNN)** | [Breast Cancer Diagnosis ](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/KNN) |
-| | Classification and Regression | Support Vector Machine (SVM) | [Link to SVM Project]() |
+| | Classification and Regression | Support Vector Machine (SVM) | [Link to SVM Project](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Support%20Vector%20Machines%20) |
 | | Classification | ensemble classifier | [ensemble classifier]() |
 | | Classification | Logistic Regression | [Link to Logistic Regression Project](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Logistic%20Regression) |
 | | **Regression** | Linear Regression | [Link to Linear Regression Project](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Linear%20Regression) |
@@ -207,6 +207,17 @@ This table outlines the **diverse uses**, **key benefits**, and **critical chall
   - **Precision, Recall, F1-Score:** Understanding the trade-off between sensitivity and prediction correctness.
   - **AUC-ROC:** Evaluating the model’s discrimination ability at different thresholds.
   - **Averaging Methods:** Differences between Macro and Micro Averaging in multi-class evaluation.
+##🔹 Support Vector Machine (SVM) Case Study 
+
+- ## Goal:**
+A comprehensive guide to implementing **Support Vector Machine (SVM)**, emphasizing **data preparation**, **feature scaling**, and **hyperparameter analysis**.  
+This project uses the **Iris dataset** to clearly demonstrate the mechanism of the maximum-margin classifier.
+
+- ## Topics Covered**
+
+  - **Core Concepts:** Intuitive explanation of the **Hyperplane**, **Margin**, and **Support Vectors**.
+  - **Parameter `C` Analysis:** Deep dive into how the **Regularization Parameter `C`** controls the essential trade-off between maximizing the margin width and minimizing classification errors (**Soft vs. Hard Margin classification**).
+  - **Visualization:** Using **Principal Component Analysis (PCA)** to reduce the 4-dimensional data to 2D for plotting and visualizing the final **Decision Boundary**.
 
 ---
 

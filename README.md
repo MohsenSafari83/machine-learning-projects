@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcT5DnafPNOH8yvxs2OhSJndbNkFtzsrGL-FQW2GzwLH6PDJ_G22lvv4xA688if0sYa7qUF5irTlCNQNg_7l9ovHZ62epJl0EV4LYNPGsvozHetjuQA]" alt="Animated Machine Learning Circuit Logo" width="300" height="300">
+</p>
 # Machine Learning Projects
 
 This repository is a **master reference** for my machine learning work.  

@@ -23,7 +23,7 @@ This portfolio provides structured access to all implemented machine learning al
 | | **Association Rules** | **Apriori Algorithm** | [Apriori Association Rules](https://github.com/MohsenSafari83/Apriori-Association-Rules) |
 
 ---
-# 📌 Quick Reference: Core ML Algorithms (Theoretical Overview)
+# Quick Reference: Core ML Algorithms (Theoretical Overview)
 
 This table provides a high-level summary of the **functionality**, **methodology**, and **common use cases** for foundational algorithms.
 
@@ -53,6 +53,88 @@ This table provides a high-level summary of the **functionality**, **methodology
 | **Hierarchical Clustering** | Clustering (Unsupervised)  | Build a hierarchy of clusters (dendrogram)    | Agglomerative (bottom-up) or Divisive (top-down) cluster merging/splitting  | Taxonomy creation, genetic sequencing, data structure visualization              |
 | **PCA (Principal Component Analysis)** | Dimensionality Reduction | Reduce number of features while retaining variance | Projects high-dimensional data onto lower-dimensional orthogonal components | Data compression, noise reduction, 2D/3D visualization                           |
 | **Apriori**                 | Association Rules (Unsupervised) | Discover frequent itemsets & generate rules | Uses "apriori property" to mine frequent patterns efficiently               | Market basket analysis, cross-selling, recommendation systems, web usage mining  |
+
+---
+# Supervised Learning: Applications, Advantages and Disadvantages
+
+This table outlines the **common applications**, **key advantages**, and **major challenges** associated with **Supervised Learning algorithms**.
+
+---
+
+## Applications
+
+| Industry / Domain             | Application                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Banking (Fraud Detection)**  | Detects fraudulent vs. legitimate transactions using labeled transaction data. |
+| **Healthcare (Parkinson’s Disease Prediction)** | Predicts progression of Parkinson’s disease using patient medical data. |
+| **Telecom / SaaS (Customer Churn Prediction)** | Identifies features associated with churn to predict customer retention. |
+| **Medical Diagnosis (Cancer Cell Classification)** | Classifies cancer cells as **malignant** or **benign** based on their features. |
+| **Finance (Stock Price Prediction)** | Predicts buy/sell signals for stocks using historical financial data. |
+
+---
+
+## Advantages of Supervised Learning
+
+| Advantage            | Detail                                                                 |
+|-----------------------|------------------------------------------------------------------------|
+| **Simplicity & Clarity** | Easy to understand and implement since it learns from labeled examples. |
+| **High Accuracy**        | Achieves strong predictive performance when sufficient labeled data is available. |
+| **Versatility**          | Works for both **classification** (spam detection, disease prediction) and **regression** (price forecasting). |
+| **Generalization**       | With diverse training data, models generalize well to unseen inputs. |
+| **Wide Application**     | Applied in **speech recognition, medical diagnosis, sentiment analysis, fraud detection**, and more. |
+
+---
+
+## Disadvantages of Supervised Learning
+
+| Disadvantage          | Detail                                                                 |
+|------------------------|------------------------------------------------------------------------|
+| **Requires Labeled Data** | Preparing large labeled datasets is costly and time-consuming.       |
+| **Bias from Data**        | Biased/unbalanced datasets may lead to biased predictions.           |
+| **Overfitting Risk**      | Small datasets may cause models to memorize instead of generalize.   |
+| **Limited Adaptability**  | Performance drops on data distributions very different from training data. |
+| **Not Scalable for Some Problems** | In tasks with millions of labels (e.g., NLP), supervised labeling is impractical. |
+
+---
+# Unsupervised Learning: Applications, Advantages and Challenges
+
+This table outlines the **diverse uses**, **key benefits**, and **critical challenges** associated with **Unsupervised Learning algorithms**.
+
+---
+
+## Applications
+
+| Key Concept              | Description / Detail                                                                 |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Customer Segmentation** | Clusters customers by behavior or demographics, enabling **targeted marketing**.    |
+| **Anomaly Detection**     | Identifies unusual patterns in data → **fraud detection, cybersecurity, equipment failure prevention**. |
+| **Recommendation Systems**| Suggests products, movies, or music by analyzing user **behavior & preferences**.   |
+| **Image & Text Clustering** | Groups similar images/documents for **organization, classification, content recommendation**. |
+| **Social Network Analysis** | Detects **communities or trends** in social media interactions.                    |
+
+---
+
+## Advantages of Unsupervised Learning
+
+| Key Concept                 | Description / Detail                                                        |
+|------------------------------|----------------------------------------------------------------------------|
+| **No Labeled Data Needed**  | Works with **raw, unlabeled data**, reducing time & cost of annotation.     |
+| **Discovers Hidden Patterns** | Finds **natural groupings** that might be missed by human analysis.        |
+| **Handles Complex Datasets** | Effective for **high-dimensional or massive datasets**.                     |
+| **Useful for Anomaly Detection** | Identifies **outliers/unusual data** without prior examples.            |
+
+---
+
+##  Challenges
+
+| Key Concept              | Description / Detail                                                                 |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Noisy Data & Outliers** | Outliers/noise can distort results and reduce effectiveness.                        |
+| **Assumption Dependence** | Algorithms rely on assumptions (e.g., **cluster shape**) that may not match reality. |
+| **Overfitting Risk**      | May capture **noise instead of meaningful patterns**.                               |
+| **Limited Guidance**      | Lack of labels makes it hard to **steer results toward desired outcomes**.          |
+| **Cluster Interpretability** | Results may lack **clear meaning** or alignment with real-world categories.       |
+| **Lack of Ground Truth**  | No labels → difficult to **objectively evaluate accuracy**.                         |
 
 ---
 

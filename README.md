@@ -265,6 +265,7 @@ machine-learning-projects
 | ├── Logistic Regression Case Study
 | ├── kNN Classification Case Study
 | ├── Performance Metrics guide
+| ├── SVM case study
 │ └── Linear Regression on California Housing
 │
 └── Unsupervised Learning

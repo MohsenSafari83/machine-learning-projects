@@ -1,4 +1,5 @@
-![Machine Learning Projects Master Reference](img/licensed-image.jpg)
+![Animated Background]([img/animated-bg-preview.gif](https://mohsensafari83.github.io/machine-learning-projects/))
+
 
 # Machine Learning Projects
 

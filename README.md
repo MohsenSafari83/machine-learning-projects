@@ -1,5 +1,5 @@
 ![Animated Background]([img/animated-bg-preview.gif](https://mohsensafari83.github.io/machine-learning-projects/))
-
+ 
 
 # Machine Learning Projects
 

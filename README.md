@@ -23,6 +23,40 @@ This portfolio provides structured access to all implemented machine learning al
 | | **Association Rules** | **Apriori Algorithm** | [Apriori Association Rules](https://github.com/MohsenSafari83/Apriori-Association-Rules) |
 
 ---
+# 📌 Quick Reference: Core ML Algorithms (Theoretical Overview)
+
+This table provides a high-level summary of the **functionality**, **methodology**, and **common use cases** for foundational algorithms.
+
+---
+
+## 🔹 Supervised Learning
+
+| Algorithm               | Type            | Purpose                                      | Methodology                                                                 | Common Use Cases                                                                 |
+|--------------------------|-----------------|----------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| **Linear Regression**    | Regression      | Predict continuous output values             | Fits a linear equation minimizing sum of squared residuals                  | Predicting continuous values (e.g., housing prices, sales forecasting)            |
+| **Logistic Regression**  | Classification | Predict binary output variable               | Logistic (sigmoid) function applied to linear relationship                  | Binary classification (e.g., heart failure risk, churn prediction)                |
+| **Decision Trees**       | Both            | Model decisions and outcomes                 | Recursive tree-like structure with decision nodes and outcomes              | Classification & Regression tasks, interpretable models                           |
+| **Random Forests**       | Both            | Improve accuracy via ensemble learning       | Combines multiple decision trees with bagging (majority vote/average)       | Reducing overfitting, improving prediction accuracy                               |
+| **Support Vector Machine (SVM)** | Both | Separate classes or predict continuous values | Finds hyperplane maximizing margin (classification) or regression function | Classification & Regression, effective in high-dimensional spaces                 |
+| **K-Nearest Neighbors (KNN)** | Both | Predict class/value from nearest data points | Uses distance metric to find *k* closest neighbors (majority/average vote)  | Classification & Regression, sensitive to noisy or unscaled data                  |
+| **Gradient Boosting**    | Both            | Build strong learner from weak models        | Iteratively corrects errors of prior models (boosting, ensemble method)     | High-performance Classification & Regression tasks                                |
+| **Naive Bayes**          | Classification | Predict class with independence assumption   | Bayes’ theorem assuming feature independence                                | Text classification, spam filtering, sentiment analysis, medical diagnosis        |
+
+---
+
+## 🔹 Unsupervised Learning
+
+| Algorithm                  | Type                        | Purpose                                      | Methodology                                                                 | Common Use Cases                                                                 |
+|-----------------------------|-----------------------------|----------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| **K-Means**                 | Clustering (Unsupervised)  | Group similar data points into clusters       | Iteratively minimizes sum of squared distances to cluster centroids         | Customer segmentation, document clustering, image compression                    |
+| **DBSCAN**                  | Clustering (Unsupervised)  | Identify dense regions and mark outliers      | Groups points by density reachability, no need to predefine K               | Outlier detection, spatial clustering, noise identification                      |
+| **Hierarchical Clustering** | Clustering (Unsupervised)  | Build a hierarchy of clusters (dendrogram)    | Agglomerative (bottom-up) or Divisive (top-down) cluster merging/splitting  | Taxonomy creation, genetic sequencing, data structure visualization              |
+| **PCA (Principal Component Analysis)** | Dimensionality Reduction | Reduce number of features while retaining variance | Projects high-dimensional data onto lower-dimensional orthogonal components | Data compression, noise reduction, 2D/3D visualization                           |
+| **Apriori**                 | Association Rules (Unsupervised) | Discover frequent itemsets & generate rules | Uses "apriori property" to mine frequent patterns efficiently               | Market basket analysis, cross-selling, recommendation systems, web usage mining  |
+
+---
+
+---
 
 ##  Foundations (Machine Learning Basics)
 

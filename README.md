@@ -1,4 +1,4 @@
-![Machine Learning Projects Master Reference](img/licensed-image.png)
+![Machine Learning Projects Master Reference](img/licensed-image.jpg)
 
 # Machine Learning Projects
 

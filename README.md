@@ -210,7 +210,7 @@ This table outlines the **diverse uses**, **key benefits**, and **critical chall
   - **Precision, Recall, F1-Score:** Understanding the trade-off between sensitivity and prediction correctness.
   - **AUC-ROC:** Evaluating the model’s discrimination ability at different thresholds.
   - **Averaging Methods:** Differences between Macro and Micro Averaging in multi-class evaluation.
-## 🔹 Support Vector Machine (SVM) Case Study 
+## 🔹 [Support Vector Machine (SVM) Case Study](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Support%20Vector%20Machines%20) 
 
 - ## Goal:**
 A comprehensive guide to implementing **Support Vector Machine (SVM)**, emphasizing **data preparation**, **feature scaling**, and **hyperparameter analysis**.  

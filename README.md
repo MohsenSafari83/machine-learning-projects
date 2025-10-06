@@ -16,9 +16,10 @@ linking to their respective repositories and sub-modules.
 ## Learning Path (Mermaid Diagram)
 ```mermaid
 graph TD
+%% Main node
 ML[Machine Learning]
 
-%% Foundations as a separate branch (prerequisite)
+%% Foundations as prerequisite
 F[Foundations: Math & Stats]
 FX[Linear Algebra, Statistics, Preprocessing]
 F --> FX
@@ -45,6 +46,7 @@ UL --> UL2[Clustering: DBSCAN]
 UL --> UL3[Clustering: Hierarchical Clustering]
 UL --> UL4[Dimensionality Reduction: PCA]
 UL --> UL5[Association Rules: Apriori Algorithm]
+
 
 
 

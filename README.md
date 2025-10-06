@@ -340,11 +340,16 @@ machine-learning-projects
 - **[Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)** — *Udemy*  
 - **[Machine Learning Course (Soheil TehraniPour - Maktabkhooneh)](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk1235/)**  
 - **[Introduction to Machine Learning (Ali Sharifi Zarchi - Maktabkhooneh)](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%85%D9%82%D8%AF%D9%85%D9%87-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk1815/)**  
-- **[Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)** — *DataCamp*
 
 ### Libraries & Docs
-- **[scikit-learn Documentation](https://scikit-learn.org/)**  
-- **[GeeksforGeeks – Machine Learning Tutorials](https://www.geeksforgeeks.org/machine-learning/)**  
+
+- **[scikit-learn Documentation](https://scikit-learn.org/)** — official documentation for all scikit-learn functions and modules
+- **[pandas Documentation](https://pandas.pydata.org/docs/)** — official documentation for data manipulation and analysis
+- **[NumPy Documentation](https://numpy.org/doc/)** — official documentation for numerical computations
+- **[Matplotlib Documentation](https://matplotlib.org/stable/contents.html)** — official documentation for plotting and visualization
+- **[Seaborn Documentation](https://seaborn.pydata.org/)** — official documentation for statistical data visualization
+- **[DataCamp](https://www.datacamp.com/)** — online learning platform for Python, Machine Learning, and Data Science
+- **[GeeksforGeeks – Machine Learning Tutorials](https://www.geeksforgeeks.org/machine-learning/)**
 
 ---
 

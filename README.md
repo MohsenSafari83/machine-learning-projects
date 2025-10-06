@@ -18,6 +18,13 @@ linking to their respective repositories and sub-modules.
 graph TD
 ML[Machine Learning]
 
+%% Fundamentals
+FUN[Fundamentals]
+ML --> FUN
+FUN --> FC[ML Core]
+FUN --> FP[Python Cheat Sheet]
+FUN --> FD[Data Preprocessing]
+
 %% Supervised Learning
 SL[Supervised Learning]
 ML --> SL
@@ -39,6 +46,7 @@ UL --> UL2[Clustering: DBSCAN]
 UL --> UL3[Clustering: Hierarchical Clustering]
 UL --> UL4[Dimensionality Reduction: PCA]
 UL --> UL5[Association Rules: Apriori Algorithm]
+
 
 ```
 ##  Machine Learning Projects Portfolio Roadmap

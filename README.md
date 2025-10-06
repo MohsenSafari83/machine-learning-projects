@@ -1,6 +1,7 @@
 # Machine Learning Projects
 
 Welcome to my **Machine Learning Projects Repository**!  
+
 This repository documents my journey from **foundations of ML** to **deep learning** and prepares for **TinyML/Embedded AI** applications.
 It organizes projects into **Foundations**, **Supervised**, and **Unsupervised** learning categories,  
 linking to their respective repositories and sub-modules. 

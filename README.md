@@ -1,6 +1,5 @@
-![ai concept](assets/doc_2025-10-06_12-10-22.gif)
- 
 
+ 
 # Machine Learning Projects
 
 This repository is a **master reference** for my machine learning work.  

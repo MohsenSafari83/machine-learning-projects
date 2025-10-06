@@ -211,11 +211,11 @@ This table outlines the **diverse uses**, **key benefits**, and **critical chall
   - **Averaging Methods:** Differences between Macro and Micro Averaging in multi-class evaluation.
 ## 🔹 [Support Vector Machine (SVM) Case Study](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Support%20Vector%20Machines%20) 
 
-- ## Goal:**
+- ## **Goal:**
 A comprehensive guide to implementing **Support Vector Machine (SVM)**, emphasizing **data preparation**, **feature scaling**, and **hyperparameter analysis**.  
 This project uses the **Iris dataset** to clearly demonstrate the mechanism of the maximum-margin classifier.
 
-- ## Topics Covered**
+- ## **Topics Covered**
 
   - **Core Concepts:** Intuitive explanation of the **Hyperplane**, **Margin**, and **Support Vectors**.
   - **Parameter `C` Analysis:** Deep dive into how the **Regularization Parameter `C`** controls the essential trade-off between maximizing the margin width and minimizing classification errors (**Soft vs. Hard Margin classification**).

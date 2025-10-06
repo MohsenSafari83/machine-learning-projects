@@ -1,4 +1,4 @@
-
+![ai concept](assets/doc_2025-10-06_12-04-24.gif)
  
 
 # Machine Learning Projects

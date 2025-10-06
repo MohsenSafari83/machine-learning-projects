@@ -187,7 +187,8 @@ This table outlines the **diverse uses**, **key benefits**, and **critical chall
 ##  Foundations (Machine Learning Basics)
 
 ### 🔹 [ml-core-concepts](https://github.com/MohsenSafari83/ml-core-concepts)  
-- ## **Goal:** Cover theoretical foundations of machine learning.  
+- ## **Goal:**
+- Cover theoretical foundations of machine learning.  
 - ## **Includes:**  
   - Overfitting vs Underfitting  
   - Bias-Variance Tradeoff  
@@ -199,7 +200,8 @@ This table outlines the **diverse uses**, **key benefits**, and **critical chall
   
 
 ### 🔹 [Data Preprocessing](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Data%20Preprocessing)
-- ## **Goal:** Essential techniques for preparing data before training ML models.  
+- ## **Goal:**
+- Essential techniques for preparing data before training ML models.  
 - ## **Topics Covered:**
   - Handling missing values & categorical variables
   - Feature scaling (Normalization, Standardization)
@@ -210,7 +212,8 @@ This table outlines the **diverse uses**, **key benefits**, and **critical chall
   - Pipelines in Scikit-learn for consistent preprocessing
 
 ### 🔹 [Python Cheat Sheet](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Python_Cheat_Sheet)
-- ## **Goal:** Quick reference for essential Python libraries in ML workflows.  
+- ## **Goal:**
+-  Quick reference for essential Python libraries in ML workflows.  
 - ## **Topics Covered:**
   - **NumPy:** Core array manipulation & data management
   - **Matplotlib:** Data visualization (line, scatter, histograms, bar, box, subplots)
@@ -221,30 +224,35 @@ This table outlines the **diverse uses**, **key benefits**, and **critical chall
 ##  Supervised Learning
 
 ### 🔹 [Heart Failure Prediction](https://github.com/MohsenSafari83/heart-failure-prediction)
-- ## **Goal:** Predict heart failure risk using ML models.  
-- ## **Algorithms Used:** Logistic Regression, KNN, SVM, XGBoost, Random Forest  
-- ## **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score, ROC-AUC  
+- ## **Goal:**
+- Predict heart failure risk using ML models.  
+- **Algorithms Used:** Logistic Regression, KNN, SVM, XGBoost, Random Forest  
+- **Evaluation Metrics:** Accuracy, Precision, Recall, F1-score, ROC-AUC  
 
 ### 🔹 [Linear Regression on California Housing](https://github.com/your-username/supervised-learning/tree/main/california-housing)  
-- ## **Goal:** Regression model to predict housing prices in California.  
-- ## **Techniques:** Linear Regression, Feature Engineering, RMSE, R².
+- ## **Goal:**
+- Regression model to predict housing prices in California.  
+-  **Techniques:** Linear Regression, Feature Engineering, RMSE, R².
 
 ### 🔹 [kNN Classification Case Study](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/KNN) 
-- ## **Goal:** Comprehensive demonstration of the **k-Nearest Neighbors (kNN)** algorithm, focusing on solutions to its core limitations.
+- ## **Goal:**
+- Comprehensive demonstration of the **k-Nearest Neighbors (kNN)** algorithm, focusing on solutions to its core limitations.
 - ## **Topics Covered:**
   - **Scale Sensitivity:** Demonstrating the necessity of scaling for distance-based algorithms.
   - **Robust Scaling:** Applying **RobustScaler** to effectively manage outliers and variance.
   - **Optimal K Search:** Using **Cross-Validation** and plotting **Error Rate vs. K** to manage the Bias-Variance Tradeoff.
   - **Evaluation Metrics:** In-depth analysis of Precision, **Recall (Sensitivity)**, and the Confusion Matrix in a critical medical context.
 ### 🔹 [Logistic Regression Case Study](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Logistic%20Regression) 
-- ## **Goal:** Demonstrating the use of Logistic Regression for **binary classification**, focusing on modeling probability and interpreting feature impact.
+- ## **Goal:**
+- Demonstrating the use of Logistic Regression for **binary classification**, focusing on modeling probability and interpreting feature impact.
 - ## **Topics Covered:**
   - **The Sigmoid Function:** Transforming linear input into a probability between 0 and 1.
   - **Log Loss (Cross-Entropy):** Understanding the cost function for probabilistic models.
   - **Optimization:** Implementing Gradient Descent for finding optimal model weights.
   - **Feature Interpretation:** Analyzing model coefficients to determine the impact and directionality of features (e.g., how cholesterol affects risk).
 ### 🔹 [Performance Metrics Guide (Evaluation)](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Evaluation%20Metrics) 
-- ## **Goal:** Comprehensive theoretical and practical guide on evaluating classification models, moving beyond simple accuracy. 
+- ## **Goal:**
+- Comprehensive theoretical and practical guide on evaluating classification models, moving beyond simple accuracy. 
 - ## **Topics Covered:**
   - **Accuracy & Limitations:** Understanding why it fails in imbalanced datasets.
   - **Confusion Matrix (TP, FP, FN, TN):** Understanding the four outcomes and Type I & II errors.
@@ -268,7 +276,8 @@ This project uses the **Iris dataset** to clearly demonstrate the mechanism of t
 ## Unsupervised Learning
 
 ### 🔹 [Clustering & Dimensionality Reduction Case Study](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/project) 
-- ## **Goal:** Comprehensive demonstration of core unsupervised learning techniques for discovering hidden patterns and efficient data representation.
+- ## **Goal:**
+- Comprehensive demonstration of core unsupervised learning techniques for discovering hidden patterns and efficient data representation.
 - ## **Topics Covered:**
   - **K-Means Clustering:** Understanding the algorithm, initialization, and iterative process.
   - **Optimal K Search:** Using the **Elbow Method** and **Silhouette Score** to find the optimal number of clusters.
@@ -276,18 +285,21 @@ This project uses the **Iris dataset** to clearly demonstrate the mechanism of t
   - **Unlabeled Data Analysis:** Interpreting the results to derive business insights (e.g., customer segmentation).
 
 ### 🔹 [Clustering & Dimensional Reduction Guide](https://github.com/your-username/unsupervised-learning/tree/main/clustering-dim-reduction)  
-- ## **Goal:** Walkthrough of common clustering and dimensionality reduction techniques.  
+- ## **Goal:**
+- Walkthrough of common clustering and dimensionality reduction techniques.  
 - ## **Techniques:** PCA, t-SNE, Hierarchical Clustering.  
 
 ### 🔹 [Dimensionality Reduction (PCA) Guide](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/docs) 
-- ## **Goal:** Comprehensive documentation and guide on **Principal Component Analysis (PCA)** and its application in machine learning workflows.
+- ## **Goal:**
+- Comprehensive documentation and guide on **Principal Component Analysis (PCA)** and its application in machine learning workflows.
 - ## **Topics Covered:**
   - **The Curse of Dimensionality:** Understanding the challenges of high-dimensional data.
   - **PCA Mechanics:** Explaining eigenvalues, eigenvectors, and variance retention.
   - **Visualization:** Using PCA to project high-dimensional data onto 2D or 3D space.
   - **Application:** Using PCA for noise reduction and improving model efficiency.
 ### 🔹 [Association Rules Mining (Apriori)](https://github.com/MohsenSafari83/Apriori-Association-Rules) 
-- ## **Goal:** Demonstrating **Apriori Algorithm** for discovering frequent itemsets and generating meaningful **association rules** from transaction data (e.g., market basket analysis).
+- ## **Goal:**
+- Demonstrating **Apriori Algorithm** for discovering frequent itemsets and generating meaningful **association rules** from transaction data (e.g., market basket analysis).
 - ## **Topics Covered:**
   - **Support, Confidence, and Lift:** Understanding the core metrics used to evaluate rule strength.
   - **Frequent Itemset Generation:** Implementing the Apriori principle to efficiently mine patterns.

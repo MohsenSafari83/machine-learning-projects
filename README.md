@@ -313,22 +313,23 @@ This project uses the **Iris dataset** to clearly demonstrate the mechanism of t
 machine-learning-projects
 │
 ├── Foundations
-│ ├── ml-core-concepts
-│ ├── Data Preprocessing
-│ └── Python Cheat Sheet
+│   ├── ml-core-concepts
+│   ├── Data Preprocessing
+│   └── Python Cheat Sheet
 │
 ├── Supervised Learning
-│ ├── Heart Failure Prediction
-| ├── Logistic Regression Case Study
-| ├── kNN Classification Case Study
-| ├── Performance Metrics guide
-| ├── SVM case study
-│ └── Linear Regression on California Housing
+│   ├── Heart Failure Prediction
+│   ├── Logistic Regression Case Study
+│   ├── kNN Classification Case Study
+│   ├── Performance Metrics Guide
+│   ├── SVM Case Study
+│   ├── Linear Regression on California Housing
+│   └── Ensemble Classifier
 │
 └── Unsupervised Learning
-├── Customer Segmentation
-├── Clustering & Dimensional Reduction Guide
-└── Apriori Association Rules
+    ├── Clustering & Customer Segmentation
+    ├── Dimensional Reduction Guide and project
+    └── Apriori Association Rules
 ```
 ##  Resources
 

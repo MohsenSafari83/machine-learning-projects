@@ -188,7 +188,7 @@ This table outlines the **diverse uses**, **key benefits**, and **critical chall
 
 ### 🔹 [ml-core-concepts](https://github.com/MohsenSafari83/ml-core-concepts)  
 - ## **Goal:**
-- Cover theoretical foundations of machine learning.  
+  Cover theoretical foundations of machine learning.  
 - ## **Includes:**  
   - Overfitting vs Underfitting  
   - Bias-Variance Tradeoff  
@@ -287,7 +287,8 @@ This project uses the **Iris dataset** to clearly demonstrate the mechanism of t
 ### 🔹 [Clustering & Dimensional Reduction Guide](https://github.com/your-username/unsupervised-learning/tree/main/clustering-dim-reduction)  
 - ## **Goal:**
   Walkthrough of common clustering and dimensionality reduction techniques.  
-- ## **Techniques:** PCA, t-SNE, Hierarchical Clustering.  
+- ## **Techniques:**
+  PCA, t-SNE, Hierarchical Clustering.  
 
 ### 🔹 [Dimensionality Reduction (PCA) Guide](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/docs) 
 - ## **Goal:**

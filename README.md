@@ -15,23 +15,29 @@ linking to their respective repositories and sub-modules.
 ## Learning Path (Mermaid Diagram)
 ```mermaid
 graph TD
-A[Foundations: Math & Stats] --> B[Supervised Learning]
-B --> B1[Regression: Linear Regression]
-B --> B2[Classification: Logistic Regression]
-B --> B3[Classification: kNN]
-B --> B4[Classification: SVM]
-B --> B5[Classification: Decision Trees]
-B --> B6[Classification: Random Forests]
-B --> B7[Classification: Gradient Boosting]
-B --> B8[Classification: Ensemble Classifier]
-B --> B9[Performance Metrics]
+F[Foundations: Math & Stats] --> FX[Linear Algebra, Statistics, Preprocessing]
 
-A --> C[Unsupervised Learning]
-C --> C1[Clustering: K-Means]
-C --> C2[Clustering: DBSCAN]
-C --> C3[Clustering: Hierarchical Clustering]
-C --> C4[Dimensionality Reduction: PCA]
-C --> C5[Association Rules: Apriori Algorithm]
+ML[Machine Learning] --> SL[Supervised Learning]
+ML --> UL[Unsupervised Learning]
+
+SL --> SL1[Regression: Linear Regression]
+SL --> SL2[Classification: Logistic Regression]
+SL --> SL3[Classification: kNN]
+SL --> SL4[Classification: SVM]
+SL --> SL5[Classification: Decision Trees]
+SL --> SL6[Classification: Random Forests]
+SL --> SL7[Classification: Gradient Boosting]
+SL --> SL8[Classification: Ensemble Classifier]
+SL --> SL9[Performance Metrics]
+
+UL --> UL1[Clustering: K-Means]
+UL --> UL2[Clustering: DBSCAN]
+UL --> UL3[Clustering: Hierarchical Clustering]
+UL --> UL4[Dimensionality Reduction: PCA]
+UL --> UL5[Association Rules: Apriori Algorithm]
+
+F -.-> ML  %% dotted line to show foundation is prerequisite
+
 ```
 ##  Machine Learning Projects Portfolio Roadmap
 

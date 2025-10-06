@@ -1,12 +1,38 @@
-
- 
 # Machine Learning Projects
 
-This repository is a **master reference** for my machine learning work.  
+Welcome to my **Machine Learning Projects Repository**!  
+This repository documents my journey from **foundations of ML** to **deep learning** and prepares for **TinyML/Embedded AI** applications.
 It organizes projects into **Foundations**, **Supervised**, and **Unsupervised** learning categories,  
 linking to their respective repositories and sub-modules. 
-
 ---
+## 🔹 Repository Overview
+
+- **Foundations**: Key concepts in Math, Statistics, and Linear Algebra.
+- **Supervised Learning**: Linear Regression, Logistic Regression, Decision Trees, etc.
+- **Unsupervised Learning**: K-Means, PCA, Clustering techniques.
+- **Resources**: Courses, books, cheat sheets, and tutorials I used.
+---
+## Learning Path (Mermaid Diagram)
+```mermaid
+graph TD
+A[Foundations: Math & Stats] --> B[Supervised Learning]
+B --> B1[Regression: Linear Regression]
+B --> B2[Classification: Logistic Regression]
+B --> B3[Classification: kNN]
+B --> B4[Classification: SVM]
+B --> B5[Classification: Decision Trees]
+B --> B6[Classification: Random Forests]
+B --> B7[Classification: Gradient Boosting]
+B --> B8[Classification: Ensemble Classifier]
+B --> B9[Performance Metrics]
+
+A --> C[Unsupervised Learning]
+C --> C1[Clustering: K-Means]
+C --> C2[Clustering: DBSCAN]
+C --> C3[Clustering: Hierarchical Clustering]
+C --> C4[Dimensionality Reduction: PCA]
+C --> C5[Association Rules: Apriori Algorithm]
+```
 ##  Machine Learning Projects Portfolio Roadmap
 
 This portfolio provides structured access to all implemented machine learning algorithms and real-world projects, categorized by learning type.
@@ -275,6 +301,21 @@ machine-learning-projects
 ├── Clustering & Dimensional Reduction Guide
 └── Apriori Association Rules
 ```
+##  Resources
+
+### Books
+- **[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)** — *Aurélien Géron*  
+  GitHub Repository: [ageron/handson-ml2](https://github.com/ageron/handson-ml2)
+
+### Online Courses
+- **[Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)** — *Udemy*  
+- **[Machine Learning Course (Soheil TehraniPour - Maktabkhooneh)](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk1235/)**  
+- **[Introduction to Machine Learning (Ali Sharifi Zarchi - Maktabkhooneh)](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%85%D9%82%D8%AF%D9%85%D9%87-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk1815/)**  
+- **[Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)** — *DataCamp*
+
+### Libraries & Docs
+- **[scikit-learn Documentation](https://scikit-learn.org/)**  
+- **[GeeksforGeeks – Machine Learning Tutorials](https://www.geeksforgeeks.org/machine-learning/)**  
 
 ---
 

@@ -16,15 +16,17 @@ linking to their respective repositories and sub-modules.
 ## Learning Path (Mermaid Diagram)
 ```mermaid
 graph TD
+ML[Machine Learning]
+
+%% Foundations as a separate branch (prerequisite)
 F[Foundations: Math & Stats]
 FX[Linear Algebra, Statistics, Preprocessing]
-
 F --> FX
-F --> ML[Machine Learning]
+F --> ML
 
-ML --> SL[Supervised Learning]
-ML --> UL[Unsupervised Learning]
-
+%% Supervised Learning
+SL[Supervised Learning]
+ML --> SL
 SL --> SL1[Regression: Linear Regression]
 SL --> SL2[Classification: Logistic Regression]
 SL --> SL3[Classification: kNN]
@@ -35,11 +37,15 @@ SL --> SL7[Classification: Gradient Boosting]
 SL --> SL8[Classification: Ensemble Classifier]
 SL --> SL9[Performance Metrics]
 
+%% Unsupervised Learning
+UL[Unsupervised Learning]
+ML --> UL
 UL --> UL1[Clustering: K-Means]
 UL --> UL2[Clustering: DBSCAN]
 UL --> UL3[Clustering: Hierarchical Clustering]
 UL --> UL4[Dimensionality Reduction: PCA]
 UL --> UL5[Association Rules: Apriori Algorithm]
+
 
 
 ```

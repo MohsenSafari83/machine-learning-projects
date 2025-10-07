@@ -364,9 +364,6 @@ machine-learning-projects
 - **[GeeksforGeeks – Machine Learning Tutorials](https://www.geeksforgeeks.org/machine-learning/)**
 
 ---
-
-## Goal
-
-This repository acts as a **map of my ML journey**,  
-making it easy to navigate through foundational concepts, supervised learning, and unsupervised learning projects.
-
+## Connect with me
+- ![Tlegram](https://t.me/Mohsenn_sri)
+- ![linkedin](https://www.linkedin.com/in/mohsenn-safari)

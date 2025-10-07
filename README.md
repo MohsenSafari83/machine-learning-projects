@@ -61,7 +61,6 @@ This portfolio provides structured access to all implemented machine learning al
 | | Classification | Ensemble Classifier | [Ensemble Classifier Project and document ](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Emsemble%20Classifier) |
 | | Classification | Logistic Regression | [Link to Logistic Regression Project](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Logistic%20Regression) |
 | | **Regression** | Linear Regression | [Link to Linear Regression Project](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/Linear%20Regression) |
-| --- | --- | --- | --- |
 | **UNSUPERVISED LEARNING** | **Clustering** | K-Means/ DBSCAN / Hierarchical | [Link to K-Means Project](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/project) |
 | ([Go to Unsupervised Learning Repo](https://github.com/MohsenSafari83/Unsupervised-Learning-)) | **Dimensionality Reduction** | Principal Component Analysis (PCA) | [Link to PCA Project](https://github.com/MohsenSafari83/Unsupervised-Learning-/tree/main/docs) |
 | | **Association Rules** | **Apriori Algorithm** | [Apriori Association Rules](https://github.com/MohsenSafari83/Apriori-Association-Rules) |
@@ -270,6 +269,18 @@ This project uses the **Iris dataset** to clearly demonstrate the mechanism of t
   - **Core Concepts:** Intuitive explanation of the **Hyperplane**, **Margin**, and **Support Vectors**.
   - **Parameter `C` Analysis:** Deep dive into how the **Regularization Parameter `C`** controls the essential trade-off between maximizing the margin width and minimizing classification errors (**Soft vs. Hard Margin classification**).
   - **Visualization:** Using **Principal Component Analysis (PCA)** to reduce the 4-dimensional data to 2D for plotting and visualizing the final **Decision Boundary**.
+
+##  [Ensemble Classifier Project & Theory](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Emsemble%20Classifier)
+
+- **Goal:**  
+Explore how **Ensemble Learning** combines weak models to improve prediction accuracy using the **Bank Marketing Dataset**.
+
+- **Topics Covered:**  
+- Decision Trees  
+- Random Forest & Bagging  
+- Boosting (AdaBoost, Gradient Boosting, XGBoost)  
+- Bagging vs Boosting  
+- Model training, tuning, and evaluation (Accuracy, F1, ROC-AUC)
 
 ---
 

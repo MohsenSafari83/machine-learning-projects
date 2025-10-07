@@ -272,15 +272,15 @@ This project uses the **Iris dataset** to clearly demonstrate the mechanism of t
 
 ##  [Ensemble Classifier Project & Theory](https://github.com/MohsenSafari83/Supervised-Learning-/tree/main/classification/Emsemble%20Classifier)
 
-- **Goal:**  
+- ## **Goal:**  
 Explore how **Ensemble Learning** combines weak models to improve prediction accuracy using the **Bank Marketing Dataset**.
 
-- **Topics Covered:**  
-- Decision Trees  
-- Random Forest & Bagging  
-- Boosting (AdaBoost, Gradient Boosting, XGBoost)  
-- Bagging vs Boosting  
-- Model training, tuning, and evaluation (Accuracy, F1, ROC-AUC)
+- ## **Topics Covered:**  
+    - Decision Trees  
+    - Random Forest & Bagging  
+    - Boosting (AdaBoost, Gradient Boosting, XGBoost)  
+    - Bagging vs Boosting  
+    - Model training, tuning, and evaluation (Accuracy, F1, ROC-AUC)
 
 ---
 

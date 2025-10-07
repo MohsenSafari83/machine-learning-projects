@@ -13,7 +13,7 @@ linking to their respective repositories and sub-modules.
 - **Unsupervised Learning**: K-Means, PCA, Clustering techniques.
 - **Resources**: Courses, books, cheat sheets, and tutorials I used.
 ---
-## Learning Path (Mermaid Diagram)
+###  Learning Path Visual Map
 ```mermaid
 graph TD
 ML[Machine Learning]

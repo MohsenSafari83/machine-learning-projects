@@ -365,5 +365,5 @@ machine-learning-projects
 
 ---
 ## Connect with me
-- ![Tlegram](https://t.me/Mohsenn_sri)
-- ![linkedin](https://www.linkedin.com/in/mohsenn-safari)
+- [Tlegram](https://t.me/Mohsenn_sri)
+- [linkedin](https://www.linkedin.com/in/mohsenn-safari)

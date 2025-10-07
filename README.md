@@ -360,7 +360,7 @@ machine-learning-projects
 - **[NumPy Documentation](https://numpy.org/doc/)** — official documentation for numerical computations
 - **[Matplotlib Documentation](https://matplotlib.org/stable/contents.html)** — official documentation for plotting and visualization
 - **[Seaborn Documentation](https://seaborn.pydata.org/)** — official documentation for statistical data visualization
-- **[DataCamp](https://www.datacamp.com/)** — online learning platform for Python, Machine Learning, and Data Science
+- **[DataCamp](https://www.datacamp.com/tutorial)** — online learning platform for Python, Machine Learning, and Data Science
 - **[GeeksforGeeks – Machine Learning Tutorials](https://www.geeksforgeeks.org/machine-learning/)**
 
 ---

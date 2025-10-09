@@ -1,10 +1,11 @@
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Pandas](https://img.shields.io/badge/Pandas-1.5.3-lightgrey)
-![NumPy](https://img.shields.io/badge/NumPy-1.26.2-orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.0-red)
-![Seaborn](https://img.shields.io/badge/Seaborn-Data_Viz-blueviolet)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML_Library-yellowgreen)
-![Kaggle](https://img.shields.io/badge/Kaggle-Data_Science-purple)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 # Machine Learning Projects
 
 Welcome to my **Machine Learning Projects Repository**

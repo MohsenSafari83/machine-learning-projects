@@ -8,7 +8,7 @@ linking to their respective repositories and sub-modules.
 ---
 ## 🔹 Repository Overview
 
-- **Foundations**: Key concepts in Math, Statistics, and Linear Algebra.
+- **Foundations**: Key concepts in code, data preprocessing, and machine learning fundamental.
 - **Supervised Learning**: Linear Regression, Logistic Regression, Decision Trees, etc.
 - **Unsupervised Learning**: K-Means, PCA, Clustering techniques.
 - **Resources**: Courses, books, cheat sheets, and tutorials I used.

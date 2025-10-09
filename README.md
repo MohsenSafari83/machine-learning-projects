@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Pandas](https://img.shields.io/badge/Pandas-1.5.3-lightgrey)
+![NumPy](https://img.shields.io/badge/NumPy-1.26.2-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.0-red)
+![Seaborn](https://img.shields.io/badge/Seaborn-Data_Viz-blueviolet)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML_Library-yellowgreen)
+![Kaggle](https://img.shields.io/badge/Kaggle-Data_Science-purple)
 # Machine Learning Projects
 
 Welcome to my **Machine Learning Projects Repository**

@@ -8,7 +8,7 @@
 
 ---
 
-![ml](images/ml.jpg)
+![ml](images/Machine-Learning-Algorithms1-(1).webp)
 
 ---
 # Machine Learning Projects

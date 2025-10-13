@@ -5,6 +5,12 @@
 ![](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+![ml](images/ml.jpg)
+
+---
 # Machine Learning Projects
 
 Welcome to my **Machine Learning Projects Repository**
